@@ -2,6 +2,20 @@
 
 An interactive Power BI dashboard analysing emergency department patient volumes, waiting times and recorded patient satisfaction.
 
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](screenshots/executive-dashboard.png)
+
+### Wait-Time Analysis
+
+![Wait-Time Analysis](screenshots/wait-time-analysis.png)
+
+### Data Model
+
+![Power BI Data Model](screenshots/data-model.png)
+
 ## Project Overview
 
 The dashboard was developed to provide operational visibility into patient activity and waiting-time performance.
